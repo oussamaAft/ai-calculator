@@ -14,6 +14,9 @@ AI Calculator is a user-friendly calculator designed to perform basic arithmetic
 - Memory functions: store and recall previous results
 - AI-enhanced calculations for improved precision
 - Mobile-friendly and responsive design
+## Acknowledgments
+
+- Oussama AFTYS ([@aftys](https://github.com/aftys)) - Project Lead
 
 ## Getting Started
 
