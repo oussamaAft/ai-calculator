@@ -1,7 +1,7 @@
 # AI Calculator
 
 
-Welcome to project AI Calculator, a simple calculator powered by artificial intelligence.
+Welcome to  AI Calculator, a simple calculator powered by artificial intelligence.
 
 ## Description
 
