@@ -30,5 +30,5 @@ AI Calculator is a user-friendly calculator designed to perform basic arithmetic
 you can run this AI calculator locally, you can clone this repository:
 
 ```bash
-git clone https://github.com/your_username/ai-calculator.git
+git clone https://github.com/aftys/ai-calculator.git
 cd ai-calculator
